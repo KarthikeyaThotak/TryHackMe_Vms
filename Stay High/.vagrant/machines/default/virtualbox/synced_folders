@@ -1,0 +1,1 @@
+{"virtualbox":{"/data":{"guestpath":"/data","hostpath":"/home/karthikeya/CTF/TryHackMe/My_Builds/Stay High/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/karthikeya/CTF/TryHackMe/My_Builds/Stay High","disabled":false,"__vagrantfile":true}}}
